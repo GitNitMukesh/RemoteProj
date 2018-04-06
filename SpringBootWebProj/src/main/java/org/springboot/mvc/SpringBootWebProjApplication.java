@@ -10,9 +10,12 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 public class SpringBootWebProjApplication {
 
 
-	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebProjApplication.class, args);
+	}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
 	}
 	
 	
