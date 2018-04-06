@@ -14,7 +14,7 @@ public class SpringBootWebProjApplication {
 		SpringApplication.run(SpringBootWebProjApplication.class, args);
 	}
 	private void sysout() {
-		System.out.println("");
+		System.out.println("hii");
 
 	}
 	
