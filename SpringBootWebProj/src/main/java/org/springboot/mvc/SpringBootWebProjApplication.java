@@ -14,7 +14,7 @@ public class SpringBootWebProjApplication {
 		SpringApplication.run(SpringBootWebProjApplication.class, args);
 	}
 	private void sysout() {
-		// TODO Auto-generated method stub
+		System.out.println("");
 
 	}
 	
